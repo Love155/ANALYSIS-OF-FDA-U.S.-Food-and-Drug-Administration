@@ -1,4 +1,5 @@
-BHUT JALDI AHA NE VALA HAI 
+BHUT JALDI AHA NE VALA HAI any time......soon
+
 ## Installation
 
 Install my-project with npm
