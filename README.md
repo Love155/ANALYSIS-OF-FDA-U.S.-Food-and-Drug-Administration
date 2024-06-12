@@ -1,4 +1,4 @@
-BHUT JALDI AHA NE VALA HAI any time......soon
+BHUT JALDI AHA NE VALA HAI any time
 
 ## Installation
 
