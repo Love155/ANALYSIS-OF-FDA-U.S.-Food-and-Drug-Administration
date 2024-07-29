@@ -44,6 +44,6 @@ Sql, Power BI
 
 # Files to be uploaded in the repository:
 1. Dataset --> SQL_Project_FDA.pdf, FDA Data Dictionary.pdf 
-2. Code --> SQL_Project_FDA.pbix, SQL_Project_FDA.sql
+2. Code --> SQL_Project_FDA.pbix, SQL_Project_FDA.sql, SQL_Project_FDA.pptx
 
 
